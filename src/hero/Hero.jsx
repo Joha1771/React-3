@@ -1,6 +1,4 @@
-import React from "react";
-import Button from "../button/Button";
-import heroImg from "../images/hero.png";
+import heroImg from "../assets/images/hero.png";
 
 const Hero = () => {
   return (
